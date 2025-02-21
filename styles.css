@@ -207,9 +207,7 @@ fieldset{
     grid-template-columns: 0.25fr 6fr 0.25fr 6fr;
     gap: 1rem;
     margin: 1rem 0;
-    padding: 0.35em 0.75em 0.625em 0.75em;
-    border-color: var(--red);
-    border: 2px groove var(--dk-gray);
+
 }
 
 legend {
